@@ -1,2 +1,5 @@
 git log --graph --pretty=oneline --abbrev-commit
+
 查看分支合并情况
+
+cha kan fen zhi he bing qing kuang!
